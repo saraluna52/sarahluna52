@@ -17,7 +17,8 @@ Currently building my portfolio and open to roles in:
 ### 🧰 Skills & Tools
 R • Excel (advanced) • Python • SQL • PowerBI • Google Analytics • Tableau
 
-🌏 Languages: English (native) • Русский (fluent) • Español (B1) • Svenska (A2)
+### 🌏 Languages
+English (native) • Русский (fluent) • Español (B1) • Svenska (A2)
 
 ### 😎 Certifications
 Lean Six Sigma (Green Belt) (2025) • Google Analytics (2024) 
