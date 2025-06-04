@@ -1,4 +1,4 @@
-# sarahluna52
+# saraluna52
 ### 👋 Hi, I’m Sarah
 
 I’m a data analyst interested in making sense of systems to drive real-world impact. I’m especially drawn to work that touches waste reduction and safe waste management, regenerative food systems, and energy optimization. I use data to explore what’s possible and to recommend what’s practical. 
